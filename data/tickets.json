@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "user_id": 730364693,
+    "username": "tymamatyty",
+    "category": "common",
+    "text": "DWWAHDH",
+    "photo": null,
+    "status": "closed",
+    "created_at": "2025-07-28T23:08:26.207797"
+  },
+  {
+    "id": 2,
+    "user_id": 5836467165,
+    "username": "tvorog_s_blinami",
+    "category": "payment",
+    "text": "ueueufuf",
+    "photo": null,
+    "status": "open",
+    "created_at": "2025-07-28T23:09:58.547131"
+  },
+  {
+    "id": 3,
+    "user_id": 730364693,
+    "username": "tymamatyty",
+    "category": "common",
+    "text": "DWAD",
+    "photo": null,
+    "status": "closed",
+    "created_at": "2025-07-28T23:39:08.238954"
+  },
+  {
+    "id": 4,
+    "user_id": 730364693,
+    "username": "tymamatyty",
+    "category": "common",
+    "text": "jvjcz",
+    "photo": null,
+    "status": "closed",
+    "created_at": "2025-07-28T23:53:57.190672"
+  },
+  {
+    "id": 5,
+    "user_id": 730364693,
+    "username": "tymamatyty",
+    "category": "common",
+    "text": "dawdwadaw",
+    "photo": null,
+    "status": "closed",
+    "created_at": "2025-07-29T00:01:53.591868"
+  },
+  {
+    "id": 6,
+    "user_id": 730364693,
+    "username": "tymamatyty",
+    "category": "common",
+    "text": "фцвцф",
+    "photo": "AgACAgIAAxkBAANEaIfJ9hL6Ac7kG_lcRCB0-b-agVYAAp78MRsxj0FIG4ftApUSy9UBAAMCAAN5AAM2BA",
+    "status": "closed",
+    "created_at": "2025-07-29T00:05:27.325940"
+  }
+]
